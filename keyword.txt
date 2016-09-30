@@ -20,4 +20,15 @@ wordpress dedicated server
 dedicated LAMP server
 dedicated WAMP Server
 
+Cloud VPS
+---------
+1-click install
+1-click install wordpress
+1-click install magento
+1-click install rails
+1-click install ruby on rails
+
+
+
+
 Other general keywords are important such as "Hong Kong" "hosting" 
